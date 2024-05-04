@@ -1,5 +1,6 @@
 # Shared Private Repositories
 
+-  [Youtube Auto Comment](https://github.com/shprivatere/youtube-auto-comment)
 -  [TrustifyCRM](https://github.com/shprivatere/TrustifyCRM)
 -  [CRM System OOP](https://github.com/shprivatere/crm-oop)
 -  [verimail](https://github.com/shprivatere/verimail)
