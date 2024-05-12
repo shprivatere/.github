@@ -7,3 +7,5 @@
 -  [domain-checker](https://github.com/shprivatere/domain-checker)
 -  [domain-names-generator](https://github.com/shprivatere/domain-names-generator)
 -  [imgup](https://github.com/shprivatere/imgup)
+-  [Bulk Phone Number Generator](https://github.com/shprivatere/bulk-phone-number-generator)
+
