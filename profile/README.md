@@ -1,6 +1,5 @@
 # Shared Private Repositories
 
--  [Licenser](https://github.com/shprivatere/licenser)
 -  [Youtube Auto Comment](https://github.com/shprivatere/youtube-auto-comment)
 -  [TrustifyCRM](https://github.com/shprivatere/TrustifyCRM)
 -  [CRM System OOP](https://github.com/shprivatere/crm-oop)
